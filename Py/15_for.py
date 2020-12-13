@@ -16,3 +16,13 @@ for word in ['my', 'name', 'is', 'Mike']:
     if word == 'name':
         break
     print(word)
+
+# for文が終わるとelseへ．しかし
+# breakがあるとelseへ行かずに終了する
+for fruit in ['apple', 'banana', 'orange']:
+    if fruit == 'banana':
+        print('stop eating')
+        break
+    print(fruit)
+else:
+    print('all eating!!')
