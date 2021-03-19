@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "vector": "cpp",
+        "ostream": "cpp",
+        "xutility": "cpp",
+        "array": "cpp",
+        "initializer_list": "cpp",
+        "xstring": "cpp"
+    }
+}
